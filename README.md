@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently Studying in MCA last year<br>👯 I’m looking to collaborate on GITHUB<br>🌱 I’m a Front end developer<br> Currently working on JAVA Backend devlopment
+🎓 MCA Graduate – Dr. A.P.J. Abdul Kalam Technical University
+💻 Frontend Developer (ReactJS, Tailwind CSS, Javascript, Redux) | Backend Knowledge (Node.js, Express.js, MongoDB, SQL, Java)
+🚀 Currently learning: Next.js.
 
+
+Hi there! 👋 I’m a passionate frontend developer who loves turning designs into clean, functional, and responsive web interfaces. My core strength lies in crafting engaging UI/UX using HTML, CSS, JavaScript, and ReactJS, enhanced with Tailwind CSS, Redux, and Bootstrap for scalability and maintainability.
+
+While my main focus is on frontend excellence, I also have hands-on experience in backend development with Node.js, Express.js, and databases like MongoDB and SQL, enabling me to contribute effectively to full stack projects when needed.
+
+📚 I’m always learning — currently diving deeper into Next.js  to push my frontend skills to the next level.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Devesh Goel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devesh_goel27)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goeldevesh123@gmail.com) [![Linkedin]https://www.linkedin.com/in/devesh-goel/]
