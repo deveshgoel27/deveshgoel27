@@ -1,10 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on Building responsive web applications using React.js, Tailwind CSS, and JavaScript, and enhancing existing projects with better performance and UI/UX.
-👯 I’m looking to collaborate on Frontend and MERN stack projects, especially involving React.js, REST APIs, and scalable web applications.
-🤝 I’m looking for help with Improving system design concepts, best coding practices, and open-source contributions.
-🌱 I’m currently learning Next.js, TypeScript to strengthen my Frontend development skills.
-💬 Ask me about React.js, JavaScript (ES6+), Tailwind CSS, Redux, REST APIs, and building responsive UI.
-⚡ Fun fact I started coding out of curiosity — now I enjoy turning ideas into clean and interactive web applications.
+
+🔭 I’m currently working on **building responsive web applications** using React.js, Tailwind CSS, and JavaScript, and enhancing existing projects with better performance and UI/UX.<br>
+
+👯 I’m looking to collaborate on **Frontend and MERN stack projects**, especially involving React.js, REST APIs, and scalable web applications.<br>
+
+🤝 I’m looking for help with **system design concepts, best coding practices, and open-source contributions**.<br>
+
+🌱 I’m currently learning **Next.js and TypeScript** to strengthen my frontend development skills.<br>
+
+💬 Ask me about **React.js, JavaScript (ES6+), Tailwind CSS, Redux, REST APIs, and responsive UI**.<br>
+
+⚡ Fun fact: I started coding out of curiosity — now I enjoy turning ideas into clean and interactive web applications.<br>
+
 
 
 ## 🌐 Socials:
