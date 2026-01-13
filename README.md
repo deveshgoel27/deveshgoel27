@@ -13,28 +13,28 @@ My focus is writing clean, maintainable code that supports real-world users at s
 
 🔧 Engineering Stack
 
-Languages
+🧩 Languages
 -> JavaScript (ES6+) • TypeScript • Java
 
-Frontend
+🎨 Frontend
 -> React • Redux • Tailwind CSS • HTML5 • CSS3 • Vite
 
-Backend
+🛠️ Backend
 -> Node.js • Express • REST APIs
 
-Databases
+🗄️ Databases
 -> MongoDB • MySQL
 
-Developer Tooling
+🧰 Developer Tooling
 -> Git • GitHub • Postman • VS Code • Vercel • Netlify
 
 🚀 What I Work On:
 
-⚙️ Designing modular React component systems
-🔌 Integrating backend APIs into high-performance UIs
-🚄 Improving frontend performance, state management, and scalability
-📦 Learning Next.js and TypeScript for large-scale production apps
-🧠 Practicing data structures, system design, and software engineering fundamentals
+⚙️ Designing modular React component systems.
+🔌 Integrating backend APIs into high-performance UIs.
+🚄 Improving frontend performance, state management, and scalability.
+📦 Learning Next.js and TypeScript for large-scale production apps.
+🧠 Practicing data structures, system design, and software engineering fundamentals.
 
 🧩 Selected Projects:
 
@@ -42,11 +42,11 @@ Developer Tooling
 A production-grade workflow that automates job discovery and filtering using AI.
 
 Impact:
-🔍 Aggregates job listings from multiple platforms
-🧹 Removes duplicates and extracts structured data
-🧠 Uses AI to match roles with my resume
-📩 Sends ranked job leads to Telegram
-☁️ Runs continuously in the cloud
+🔍 Aggregates job listings from multiple platforms.
+🧹 Removes duplicates and extracts structured data.
+🧠 Uses AI to match roles with my resume.
+📩 Sends ranked job leads to Telegram.
+☁️ Runs continuously in the cloud.
 
 Tech: n8n • OpenAI API • Google Sheets • Telegram Bot • Web Scraping
 
@@ -54,10 +54,10 @@ Tech: n8n • OpenAI API • Google Sheets • Telegram Bot • Web Scraping
 A full-stack job platform for recruiters and candidates.
 
 Features:
-📝 Job posting & applications
-🔐 User authentication
-🔍 Search and filtering
-📱 Fully responsive UI
+📝 Job posting & applications.
+🔐 User authentication.
+🔍 Search and filtering.
+📱 Fully responsive UI.
 
 Tech: React • Node.js • MongoDB
 
@@ -70,13 +70,13 @@ Personal website showcasing my projects and technical profile.
 
 I care about:
 
-🧩 Code readability & maintainability
-⚡ Performance & scalability
-🧪 Writing components that are easy to test and extend
-🌍 Building systems that work in real-world conditions
+🧩 Code readability & maintainability.
+⚡ Performance & scalability.
+🧪 Writing components that are easy to test and extend.
+🌍 Building systems that work in real-world conditions.
 
 🤝 Connect With Me.
 
-💼 LinkedIn: https://www.linkedin.com/in/devesh-goel
-💻 GitHub: https://github.com/deveshgoel27
-📧 Email: techdevesh2702@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/devesh-goel .
+💻 GitHub: https://github.com/deveshgoel27 .
+📧 Email: techdevesh2702@gmail.com .
