@@ -1,4 +1,5 @@
-👋 Hi, I’m Devesh Goel
+👋 Hi, I’m Devesh Goel.
+
 Frontend & AI Full-Stack Engineer
 
 React.js • JavaScript • Node.js • TypeScript • MongoDB
