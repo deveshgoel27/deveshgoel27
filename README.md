@@ -1,34 +1,77 @@
-# 💫 About Me:
+👋 Hi, I’m Devesh Goel
+Frontend & Ai Full-Stack Engineer
+React.js • JavaScript • Node.js • TypeScript • MongoDB
+📍 New Delhi, India
 
-🔭 I’m currently working on **building responsive web applications** using React.js, Tailwind CSS, and JavaScript, and enhancing existing projects with better performance and UI/UX.<br>
+I am an MCA 2025 graduate and Frontend Developer with hands-on experience building scalable, user-centric web applications. I specialize in React architecture, API-driven user interfaces, and performance-optimized frontend systems, and I actively practice backend development and AI-powered workflows to grow into a Full-Stack AI engineer.
 
-👯 I’m looking to collaborate on **Frontend and MERN stack projects**, especially involving React.js, REST APIs, and scalable web applications.<br>
+My focus is writing clean, maintainable code that supports real-world users at scale.
 
-🤝 I’m looking for help with **system design concepts, best coding practices, and open-source contributions**.<br>
+🔧 Engineering Stack
 
-🌱 I’m currently learning **Next.js and TypeScript** to strengthen my frontend development skills.<br>
+Languages
+JavaScript (ES6+), TypeScript, Java
 
-💬 Ask me about **React.js, JavaScript (ES6+), Tailwind CSS, Redux, REST APIs, and responsive UI**.<br>
+Frontend
+React, Redux, Tailwind CSS, HTML5, CSS3, Vite
 
-⚡ Fun fact: I started coding out of curiosity — now I enjoy turning ideas into clean and interactive web applications.<br>
+Backend
+Node.js, Express, REST APIs
 
+Databases
+MongoDB, MySQL
 
+Developer Tooling
+Git, GitHub, Postman, VS Code, Vercel, Netlify
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devesh.goel.750) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devesh_goel27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devesh-goel/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31214308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techdevesh2702@gmail.com) 
+🚀 What I Work On
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devesh Goel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devesh Goel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh Goel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Designing modular React component systems.
+> Integrating backend APIs into high-performance UIs.
+> Improving frontend performance, state management, and scalability.
+> Learning Next.js and TypeScript for large-scale production apps.
+> Practicing data structures, system design, and software engineering fundamentals.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🧩 Selected Projects
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/techdeveshf) 
+AI-Powered Job Search Automation
+-> A production-grade workflow that automates job discovery and filtering using AI.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Impact
+> Aggregates job listings from multiple platforms.
+> Deduplicates and extracts structured job data.
+> Uses AI to match roles with my resume.
+> Sends ranked job leads to Telegram automatically.
+> Runs continuously in the cloud.
+Tech: n8n, OpenAI API, Google Sheets, Telegram Bot, Web Scraping
+
+HIRRD — Job Portal
+-> A full-stack job platform for recruiters and candidates.
+
+Features
+> Job posting and applications.
+> User authentication.
+> Search and filtering.
+> Responsive UI.
+Tech: React, Node.js, MongoDB
+
+Developer Portfolio
+-> Personal site showcasing projects and technical profile.
+🔗 https://devesh-portfolio-peach.vercel.app
+
+🧠 Engineering Mindset
+
+I care about:
+
+> Code readability and maintainability.
+> Performance and scalability.
+> Writing components that are easy to test and extend.
+> Building systems that work under real-world conditions.
+
+🤝 Contact
+
+LinkedIn: https://www.linkedin.com/in/devesh-goel
+GitHub: https://github.com/deveshgoel27
+Email: techdevesh2702@gmail.com
+
+💬 Quote I Believe In “The only way to do great work is to love what you do.” – Steve Jobs
