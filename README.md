@@ -77,6 +77,6 @@ I care about:
 
 🤝 Connect With Me.
 
-💼 LinkedIn: https://www.linkedin.com/in/devesh-goel .
-💻 GitHub: https://github.com/deveshgoel27 .
-📧 Email: techdevesh2702@gmail.com .
+💼 LinkedIn: https://www.linkedin.com/in/devesh-goel . <br/>
+💻 GitHub: https://github.com/deveshgoel27 .  <br/>
+📧 Email: techdevesh2702@gmail.com .  <br/>
