@@ -6,7 +6,7 @@
   <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
   <br/><br/>
 
-  <a href="https://devesh-portfolio-peach.vercel.app" target="_blank">
+  <a href="https://devesh-portfolio-2026.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/devesh-goel" target="_blank">
