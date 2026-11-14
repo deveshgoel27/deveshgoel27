@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Devesh Goel</h1>
-  <h3>Software Development Engineer @ VimanoTech | Full-Stack Developer</h3>
+  <h3>Software Engineer @ VimanoTech | Full-Stack Developer</h3>
   <p>📍 New Delhi, India</p>
   
   <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
