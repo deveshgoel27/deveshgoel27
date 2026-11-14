@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Development Engineer at VimanoTech** and an MCA 2025 graduate. I specialize in building end-to-end, scalable web applications with a strong focus on React-based architectures, robust APIs, and seamless database integration. 
+I am a **Software Engineer at VimanoTech** and an MCA 2025 graduate. I specialize in building end-to-end, scalable web applications with a strong focus on React-based architectures, robust APIs, and seamless database integration. 
 
 While I thrive in designing high-performance user interfaces on the frontend, I am equally passionate about engineering secure and optimized backend systems. I am currently integrating AI-powered workflows to transition into a Full-Stack AI Engineer.
 
